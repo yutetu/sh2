@@ -1,5 +1,5 @@
-REGION = 'europe'
-AREA = 'albania'
+REGION = 'asia'
+AREA = 'japan'
 
 desc 'download source geospatial data to the place'
 task :download do
